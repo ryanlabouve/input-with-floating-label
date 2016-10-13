@@ -1,0 +1,13 @@
+<div class="ember-input-with-floating-label">
+  <label
+    class="{{if value 'show'}} ml3"
+    >
+    {{label}}
+  </label>
+  <input
+    type="text"
+    class="pa3 w-100"
+    placeholder={{label}}
+    onkeyup={{action (mut value) value="target.value"}}
+    />
+</div>

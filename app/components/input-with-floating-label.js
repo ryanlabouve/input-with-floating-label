@@ -1,0 +1,1 @@
+export { default } from 'input-with-floating-label/components/input-with-floating-label';
