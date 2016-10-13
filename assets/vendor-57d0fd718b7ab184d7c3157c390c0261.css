@@ -1,0 +1,1 @@
+.ember-input-with-floating-label{display:block;position:relative}.ember-input-with-floating-label label{opacity:0;position:absolute;top:-2em;transition:all .1s linear;z-index:-1;transform:translateY(-50%);color:#aaa}.ember-input-with-floating-label label.show{opacity:1;z-index:1;top:0;background:#fff}
