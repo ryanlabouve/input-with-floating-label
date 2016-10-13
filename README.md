@@ -1,5 +1,9 @@
 # Input-with-floating-label
 
+Demo ember component with a floating label. Not published yet.
+If this is useful to you please let me know and I'll tie up the loose ends and
+publish.
+
 ![Demo Picture](https://gifcannon.s3.amazonaws.com/screencast_2016-10-13_00-37-21.gif)
 
 Inspired by this article:
