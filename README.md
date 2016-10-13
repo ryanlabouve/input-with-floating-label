@@ -1,6 +1,9 @@
 # Input-with-floating-label
 
-This README outlines the details of collaborating on this Ember addon.
+![Demo Picture](https://gifcannon.s3.amazonaws.com/screencast_2016-10-13_00-37-21.gif)
+
+Inspired by this article:
+[Accessible floating labels by Matt Smith](http://allthingssmitty.com/2016/09/25/accessible-floating-labels/)
 
 ## Installation
 
